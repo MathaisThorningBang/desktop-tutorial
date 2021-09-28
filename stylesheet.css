@@ -150,14 +150,16 @@ ul.about-content {
 .about-content li {
   padding: 20px;
   height: 190px;
-  background-clip: content-box;
+  background-clip: border-box;
   -webkit-background-size: cover;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
 }
 .about-left {
   flex-basis: 40%;
-  background-image: url(../desktop-tutorial/Billeder/Mathias.png); border-style: solid; color: #0f90cb; height: fit-content;
+  background-image: url(../desktop-tutorial/Billeder/Mathias.png); 
+  border-style: solid; 
+  color: #0f90cb;
   
  
 }
