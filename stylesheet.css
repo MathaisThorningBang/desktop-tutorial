@@ -78,7 +78,7 @@ section {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	padding: 110px 100px;
+	padding: 100px 100px;
 }
 @media (max-width:1000px) {
 	section {
