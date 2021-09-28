@@ -205,7 +205,6 @@ ul.cv-content {
   border: black;
 }
 .cv-content li {
-  padding: 0 30px;
   flex-basis: 33%;
   text-align: center;
 }
