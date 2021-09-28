@@ -160,7 +160,7 @@ ul.about-content {
 }
 
 .about-right {
-  flex-basis: 60%;
+  flex-basis: 75%;
 }
 .about-area p {
   max-width: 800px;
