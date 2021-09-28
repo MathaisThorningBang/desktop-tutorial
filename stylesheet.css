@@ -154,7 +154,7 @@ ul.about-content {
 .about-left {
   flex-basis: 15%;
   background-image: url(../desktop-tutorial/Billeder/Mathias.png); 
-  align-content: initial;
+  align-content: center;
 }
 .about-right {
   flex-basis: 60%;
