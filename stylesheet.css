@@ -105,7 +105,7 @@ section p {
 	text-align: center;
 }
 .banner-area .banner-img {
-	background-image: url(file:///Users/mathiasbang/Desktop/onepager/Billeder/Forsiden.jpg);
+	background-image: url(../desktop-tutorial/Billeder/Forsiden.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;
