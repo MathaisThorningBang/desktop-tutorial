@@ -6,9 +6,6 @@
 html {
 	scroll-behavior: smooth;
 }
-body {
-	font-family: poppins;
-}
 ul, nav {
 	list-style: none;
 }
