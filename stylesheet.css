@@ -191,7 +191,7 @@ ul.about-content {
 
 
 #cv {
-  background: #85C1E9;
+  background: #1d6fa5;
   opacity: 0.9;
 }
 ul.cv-content {
@@ -263,7 +263,8 @@ footer {
   text-align: center;
   color: black;
   text-transform: uppercase;
-  background-color: #85C1E9;
+  font-weight: bold;
+  background-color: #1d6fa5;
   padding: 20px 0;
   opacity: 0.9;
 }
