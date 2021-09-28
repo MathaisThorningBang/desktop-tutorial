@@ -9,6 +9,7 @@ html {
 ul,
 nav {
   list-style: none;
+  float: right;
 }
 a {
   text-decoration: none;
