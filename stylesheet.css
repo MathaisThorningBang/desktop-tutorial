@@ -77,7 +77,7 @@ section p {
   text-align: center;
   margin-bottom: 35px;
   padding: 0 20px;
-  line-height: 2;
+  line-height: 1.5;
 }
 .landing-page {
   position: relative;
@@ -117,7 +117,7 @@ section p {
 }
 .landing-page a.landing-page-btn {
   padding: 15px 35px;
-  background: #0f90cb;
+  background: #3498DB;
   border-radius: 50px;
   text-transform: uppercase;
 }
@@ -189,8 +189,9 @@ ul.about-content {
 
 /*cv area*/
 
+
 #cv {
-  background: #0f90cb;
+  background: #85C1E9;
   opacity: 0.9;
 }
 ul.cv-content {
@@ -236,7 +237,6 @@ ul.contact-content {
 }
 .contact-content li i {
   font-size: 50px;
-  color: #0f90cb;
   margin-bottom: 25px;
 }
 .contact-content li p {
@@ -261,7 +261,9 @@ footer {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  color: #fff;
-  background-color: #000;
-  padding: 60px 0;
+  color: black;
+  text-transform: uppercase;
+  background-color: #85C1E9;
+  padding: 20px 0;
+  opacity: 0.9;
 }
