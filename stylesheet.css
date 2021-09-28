@@ -31,16 +31,10 @@ header nav {
   display: flex;
   text-transform: uppercase;
   font-size: larger;
-  align-items: right;
+  align-items: center;
 }
 header nav li {
   margin: 0 15px;
-}
-header nav li:first-child {
-  margin-left: 0;
-}
-header nav li:last-child {
-  margin-right: 0;
 }
 @media (max-width: 1000px) {
   header {
