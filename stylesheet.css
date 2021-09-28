@@ -156,8 +156,8 @@ ul.about-content {
   background-position: center;
 }
 .about-left {
-  flex-basis: 25%;
-  background-image: url(../desktop-tutorial/Billeder/logo.png); resize: initial;
+  flex-basis: auto;
+  background-image: url(../desktop-tutorial/Billeder/logo.png); 
 }
 .about-right {
   flex-basis: 70%;
