@@ -158,6 +158,7 @@ ul.about-content {
 .about-left {
   flex-basis: 40%;
   background-image: url(../desktop-tutorial/Billeder/Mathias.png); border-style: solid;
+  height: fit-content;
  
 }
 .about-right {
