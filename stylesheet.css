@@ -148,7 +148,7 @@ ul.about-content {
   justify-content: center;
 }
 .about-content li {
-  padding: 20px;
+  padding: 10px;
   height: 190px;
   background-clip: border-box;
   -webkit-background-size: cover;
@@ -156,13 +156,9 @@ ul.about-content {
   background-position: center;
 }
 .about-left {
-  flex-basis: 40%;
-  background-image: url(../desktop-tutorial/Billeder/Mathias.jpg); 
-  border-style: solid; 
-  color: #0f90cb;
-  size: 200px;
-  
- 
+  flex-basis: 15%;
+  background-image: url(../desktop-tutorial/Billeder/Mathias.png); 
+
 }
 .about-right {
   flex-basis: 60%;
@@ -172,7 +168,7 @@ ul.about-content {
   margin-bottom: 35px;
   line-height: 1.5;
   text-align: left;
-  padding-left: 0;
+  padding-left: 30px;
 }
 .section-title {
   text-transform: uppercase;
@@ -182,6 +178,7 @@ ul.about-content {
 }
 .about-right h2 {
   margin-bottom: 3%;
+  padding-left: 30px;
 }
 @media (max-width: 1000px) {
   .about-left,
