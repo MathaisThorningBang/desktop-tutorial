@@ -9,7 +9,6 @@ html {
 ul,
 nav {
   list-style: none;
-  float: right;
 }
 a {
   text-decoration: none;
@@ -32,7 +31,7 @@ header nav {
   display: flex;
   text-transform: uppercase;
   font-size: larger;
-  align-items: center;
+  align-items: right;
 }
 header nav li {
   margin: 0 15px;
