@@ -23,10 +23,6 @@ header {
 	left: 0;
 	z-index: 10;
 	width: 100%;
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -34,10 +30,6 @@ header {
 	padding: 35px 100px 0;
 }
 header nav {
-	display: -webkit-flex;
-	display: -moz-flex;
-	display: -ms-flex;
-	display: -o-flex;
 	display: flex;
     text-transform: uppercase;
     font-size: larger;
