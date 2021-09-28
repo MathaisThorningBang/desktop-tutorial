@@ -141,6 +141,10 @@ section p {
 }
 /*about area*/
 
+.section-title {
+font-weight: bolder;
+}
+
 ul.about-content {
   width: 100%;
   display: flex;
