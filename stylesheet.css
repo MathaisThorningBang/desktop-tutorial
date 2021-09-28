@@ -149,10 +149,10 @@ ul.about-content {
 }
 .about-content li {
   padding: 20px;
-  height: 190px;
+  height: 550px;
   background-clip: border-box;
   -webkit-background-size: cover;
-  background-size: auto;
+  background-size: cover;
   background-position: center;
 }
 .about-left {
