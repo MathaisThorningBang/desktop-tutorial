@@ -156,11 +156,11 @@ ul.about-content {
   background-position: center;
 }
 .about-left {
-  flex-basis: 25%;
+  flex-basis: 40%;
   background-image: url(../desktop-tutorial/Billeder/logo.png); 
 }
 .about-right {
-  flex-basis: 70%;
+  flex-basis: 60%;
 }
 .about-area p {
   max-width: 800px;
