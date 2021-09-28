@@ -23,19 +23,19 @@ header {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   color: #fff;
-  padding: 35px 100px 0;
+  padding: 35px 100px 100px;
 }
+
 header nav {
   display: flex;
   text-transform: uppercase;
   font-size: larger;
-  align-items: center;
 }
 header nav li {
   margin: 0 15px;
 }
+
 @media (max-width: 1000px) {
   header {
     padding: 20px 50px;
@@ -105,7 +105,7 @@ section p {
   width: 100%;
   height: 100%;
   background-color: #000;
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .landing-page h1 {
   margin-bottom: 15px;
