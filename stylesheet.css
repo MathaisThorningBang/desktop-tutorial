@@ -148,7 +148,7 @@ ul.about-content {
   justify-content: center;
 }
 .about-content li {
-  padding: 20px;
+  padding: 5px;
   height: 190px;
   background-clip: content-box;
   -webkit-background-size: cover;
